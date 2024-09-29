@@ -9,6 +9,7 @@ Register unlimited accounts with email or phone number full request
 
 ✅Follow accounts
 
+✅Requests Based
 
 ✅Support proxy to change IP
 
